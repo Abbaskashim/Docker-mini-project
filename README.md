@@ -145,6 +145,27 @@ Output :
 
 <img width="452" height="228" alt="image" src="https://github.com/user-attachments/assets/a6f44aef-32dc-451b-958a-4846ba5ae6c9" />
 
+### Docker Ignore
+
+.dockerignore File
+---
+```
+.git
+.gitignore
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+env/
+.venv/
+.streamlit/
+.DS_Store
+Thumbs.db
+*.log
+.vscode/
+.idea/
+```
 
 
 
