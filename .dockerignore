@@ -1,0 +1,34 @@
+# Git related files
+.git
+.gitignore
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Streamlit cache
+.streamlit/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Editor / IDE files
+.vscode/
+.idea/
+
+# Documentation (optional)
+*.md
+
+# Docker compose override files (if any)
+docker-compose.override.yml
