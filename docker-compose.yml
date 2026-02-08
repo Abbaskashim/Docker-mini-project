@@ -1,0 +1,9 @@
+version: "3.9"
+
+services:
+  streamlit-app:
+    build: .
+    image: streamlit-app:01
+    container_name: streamlit_container
+    ports:
+      - "8501:8501"
