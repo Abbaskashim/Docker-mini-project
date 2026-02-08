@@ -113,7 +113,9 @@ services:
 ### Docker Compose Commands
 
 ---
+```
 docker-compose up --build
+```
 
 <img width="452" height="272" alt="image" src="https://github.com/user-attachments/assets/bb9eeadc-9422-4690-80a2-b18b5ab23ea6" />
 
@@ -121,15 +123,21 @@ Output
 
 <img width="452" height="282" alt="image" src="https://github.com/user-attachments/assets/f14e3d2e-4639-4253-ae9d-c1b659af9cff" />
 
+```
 docker-compose ps
+```
 
 <img width="452" height="78" alt="image" src="https://github.com/user-attachments/assets/7f098bc0-1796-4aff-b122-1c539e8319e4" />
 
+```
 docker-compose logs
+```
 
 <img width="452" height="178" alt="image" src="https://github.com/user-attachments/assets/d2250f17-683d-48a2-8cea-ceb95f809c29" />
 
+```
 docker-compose down
+```
 
 <img width="452" height="63" alt="image" src="https://github.com/user-attachments/assets/425834b8-2cb3-4e62-ae7e-ed8663de10e5" />
 
