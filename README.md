@@ -147,8 +147,9 @@ Output :
 
 ### Docker Ignore
 
-.dockerignore File
 ---
+.dockerignore File
+
 ```
 .git
 .gitignore
